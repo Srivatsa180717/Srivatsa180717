@@ -43,7 +43,6 @@ Welcome to my GitHub! I'm passionate about exploring the frontiers of Artificial
 ## 📫 Connect With Me
 
 - [LinkedIn](https://www.linkedin.com/in/srivatsa-adharapurapu)
-- [Mail ID](vatsaa99@gmail.com)
 
 ---
 
